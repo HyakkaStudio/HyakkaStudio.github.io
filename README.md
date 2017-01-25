@@ -1,2 +1,2 @@
-# hyakka-studio.github.io
+# HyakkaStudio.github.io
 Website of Hyakka Studio
